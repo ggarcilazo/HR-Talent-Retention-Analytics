@@ -11,9 +11,6 @@ Este proyecto analiza los factores clave que impulsan la rotación de personal (
 | :---: | :---: |
 | ![Resumen Ejecutivo](Resumen_Ejecutivo.png) | ![Análisis de Rotación](Analisis_de_Rotacion.png) |
 
-| Clima y Desempeño 
-| :---: | :---: |
-| ![Clima y Desempeño](Clima_y_Desempeño.png) 
 
 ## 📊 Estructura del Dashboard (5 Páginas)
 El reporte está dividido en 5 vistas estratégicas interconectadas:
