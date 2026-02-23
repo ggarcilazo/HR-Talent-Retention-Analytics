@@ -7,9 +7,19 @@
 Este proyecto analiza los factores clave que impulsan la rotación de personal (Attrition) en una organización de 1,470 empleados. El objetivo es identificar patrones de fuga de talento y evaluar el bienestar laboral para proponer acciones preventivas basadas en datos.
 
 ## 🖼️ Vista Previa del Dashboard
-| Resumen Ejecutivo | Análisis de Rotación |
-| :---: | :---: |
-| ![Resumen Ejecutivo](Resumen_Ejecutivo.png) | ![Análisis de Rotación](Analisis_de_Rotacion.png) |
+A continuación, se presentan las capturas de las secciones principales del reporte interactivo:
+
+### 1. Resumen Ejecutivo
+Vista macro con indicadores clave de rendimiento (KPIs) sobre la fuerza laboral.
+![Resumen Ejecutivo](04-Insights-Reports/Resumen_Ejecutivo.png)
+
+### 2. Análisis de Rotación
+Desglose detallado de las bajas y su relación con el equilibrio vida-trabajo.
+![Análisis de Rotación](04-Insights-Reports/Analisis_de_Rotacion.png)
+
+### 3. Clima y Desempeño
+Evaluación de la satisfacción de los empleados frente a su rendimiento y capacitación.
+![Clima y Desempeño](04-Insights-Reports/Clima_y_Desempeño.png)
 
 
 ## 📊 Estructura del Dashboard (5 Páginas)
