@@ -6,21 +6,33 @@
 ## 🎯 Objetivo del Proyecto
 Este proyecto analiza los factores clave que impulsan la rotación de personal (Attrition) en una organización de 1,470 empleados. El objetivo es identificar patrones de fuga de talento y evaluar el bienestar laboral para proponer acciones preventivas basadas en datos.
 
-## 🖼️ Vista Previa del Dashboard
-A continuación, se presentan las capturas de las secciones principales del reporte interactivo:
+## 🖼️ Vista del Dashboard
+A continuación, se presentan las capturas de las secciones del reporte interactivo:
 
 ### 1. Resumen Ejecutivo
 Vista macro con indicadores clave de rendimiento (KPIs) sobre la fuerza laboral.
+
 ![Resumen Ejecutivo](04-Insights-Reports/Resumen_Ejecutivo.png)
 
 ### 2. Análisis de Rotación
 Desglose detallado de las bajas y su relación con el equilibrio vida-trabajo.
+
 ![Análisis de Rotación](04-Insights-Reports/Analisis_de_Rotacion.png)
 
 ### 3. Clima y Desempeño
 Evaluación de la satisfacción de los empleados frente a su rendimiento y capacitación.
+
 ![Clima y Desempeño](04-Insights-Reports/Clima_y_Desempeño.png)
 
+### 4. Lealtad y Liderazgo
+Impacto del tiempo de permanencia con jefes actuales y estabilidad en el puesto.
+
+![Lealtad y Liderazgo](04-Insights-Reports/Lealtad_y_Liderazgo.png)
+
+### 5. Perfil del Talento
+Análisis demográfico basado en formación académica y niveles jerárquicos.
+
+![Perfil del Talento](04-Insights-Reports/Perfil_del_Talento.png)
 
 ## 📊 Estructura del Dashboard (5 Páginas)
 El reporte está dividido en 5 vistas estratégicas interconectadas:
@@ -48,4 +60,4 @@ El reporte está dividido en 5 vistas estratégicas interconectadas:
 3. El script de procesamiento original se encuentra en `/Scripts/Cleaning_Process.ipynb`.
 
 ---
-✨ **Análisis desarrollado por [Tu Nombre]** *¿Te interesa este análisis? ¡Conectemos en LinkedIn!*
+✨ **Análisis desarrollado por Giovanni Garcilazo** *¿Te interesa este análisis? ¡Conectemos en LinkedIn!*
